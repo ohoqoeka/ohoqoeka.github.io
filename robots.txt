@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ohoqoeka.github.io/ZMN/sitemap_index.txt
+Sitemap: https://ohoqoeka.github.io/fvU/sitemap_index.txt
+Sitemap: https://ohoqoeka.github.io/pcV/sitemap_index.txt
+Sitemap: https://ohoqoeka.github.io/rlj/sitemap_index.txt
